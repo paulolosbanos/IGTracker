@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IGTracker</string>
+    <string name="facebook_app_id">188118039264654</string>
+    <string name="fb_login_protocol_scheme">fb188118039264654</string>
+</resources>
